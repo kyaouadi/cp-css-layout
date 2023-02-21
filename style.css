@@ -1,0 +1,78 @@
+*{
+    font-family: 'roboto' ,sans-serif ;
+margin-left: 2%;
+margin-right: 2%;
+}
+.barrenav
+{
+    display : flex ;
+    justify-content: space-around;
+
+}
+.les3boutons
+{
+    display : flex ; 
+
+    align-items: center;
+}
+
+a
+{
+    margin-left: 20px;
+    text-decoration: none;
+    color : rgb(185,185,185);
+ 
+}
+
+a:hover
+{
+    color : #00b39b
+}
+
+.logoetoile
+{
+display: flex ;
+align-items: center;
+justify-content: center;
+margin : auto;
+
+
+}
+
+.para
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.ligne { 
+display: flex;
+justify-content: center;
+align-items: center;
+width:auto;
+color: #00b39b;
+}
+
+.mise{
+    margin-left: 2%;
+}
+.discarte
+{
+display: flex;
+flex-direction: row;
+color: white;
+margin-top: 5%;
+
+
+
+}
+
+.carte
+{
+    padding: 20px ;
+    font-size: 25px;
+    justify-content: space-between;
+    
+}
